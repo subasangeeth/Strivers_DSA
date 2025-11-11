@@ -9,7 +9,6 @@ public class prg17 {
         for(int i=0;i<4;i++){
             for(int j=0;j<chars.length-i;j++){
                 Char[j]=chars[i];
-                Char.
             }
 
         }
